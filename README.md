@@ -83,5 +83,4 @@ Proyecto realizado por
 
 <p align="center">✌️</p>
 <p align="center">
-<sub><sup>A project by <a href="https://github.com/MarcosDeAndrade">Marcos De Andrade</a> & <a href="https://github.com/systems-multimedia">Samuel Boada</a></sup></sub>
-</p>
+<sub><sup>A project by <a href="https://github.com/MarcosDeAndrade">Marcos De Andrade</a> & <a href="https://github.com/systems-multimedia">Samuel Boada</a><br>Copyright (c) 2018</sup></sub></p>
