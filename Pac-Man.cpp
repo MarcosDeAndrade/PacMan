@@ -2,7 +2,7 @@
  ------------------------------------------------------------------------------
  =       Metropolitan University, Caracas - Venezuela                         =
  =       Systems Engineering                                                  =
- =       Algorithms and Programming                                                   =
+ =       Algorithms and Programming                                           =
  =       * Professor:   Nicolas Araque                                        =
  =       * Creators:    Marcos De Andrade, Samuel Boada                       =
  =       Proyect  N°2 - PacMan                                       		  =
