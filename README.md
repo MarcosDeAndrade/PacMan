@@ -1,8 +1,12 @@
 # PacMan (Game) (C++)
 
-## ***Introducción***
+---
 
-Proyecto realizado por [Marcos De Andrade](https://github.com/MarcosDeAndrade) y [Samuel Boada](https://github.com/systems-multimedia).
+<p align="center"><b>PacMan Game Arcade</b><br>Software desarrollado en lenguaje C++, con el IDE DEV C++.</p>
+
+---
+
+## ***Introducción***
 
 Juego arcade de PacMan, con las funcionalidades parciales del juego original. El objetivo del juego consiste en comer el mayor número de puntos, sin dejarse atrapar por los fantasmas en el laberinto establecido.
 > NOTA: NO todas las funcionalidades del juego se encuentran implementadas.
@@ -15,9 +19,6 @@ Juego arcade de PacMan, con las funcionalidades parciales del juego original. El
 5. Sigue las instrucciones en el menu de ***Instrucciones*** para aprender a jugar.
 
 ## ***Especificaciones***
-
-> Software desarrollado en lenguaje C++, con el IDE DEV C++. 
- con el IDE NetBeans, en el lenguaje JAVA
 
 Desarrollar un programa que permita jugar PacMan. Debe contar con las siguientes especificaciones.
 
@@ -48,22 +49,39 @@ Desarrollar un programa que permita jugar PacMan. Debe contar con las siguientes
 ## ***ScreenShoots***
 
 ### *Menu Principal*
-![Menu Principal](https://i.ibb.co/M7sgtnM/Imagen1.png)
+<p align="center"><img src="https://i.ibb.co/M7sgtnM/Imagen1.png"></p>
 
 ### *Creditos*
-![Creditos](https://i.ibb.co/9cnP7hx/Imagen2.png)
+<p align="center"><img src="https://i.ibb.co/9cnP7hx/Imagen2.png"></p>
 
 ### *Instrucciones*
-![Instrucciones](https://i.ibb.co/dLGCG1D/Imagen3.png)
+<p align="center"><img src="https://i.ibb.co/dLGCG1D/Imagen3.png"></p>
 
 ### *Ingresar ID*
-![Ingresar ID](https://i.ibb.co/LJw61x4/Imagen4.png)
+<p align="center"><img src="https://i.ibb.co/LJw61x4/Imagen4.png"></p>
 
 ### *Inicio de Partida*
-![Inicio de Partida](https://i.ibb.co/tLBfcPx/Imagen5.png)
+<p align="center"><img src="https://i.ibb.co/tLBfcPx/Imagen5.png"></p>
 
 ### *Partida*
-![Partida](https://i.ibb.co/f9KNmM8/Imagen6.png)
+<p align="center"><img src="https://i.ibb.co/f9KNmM8/Imagen6.png"></p>
 
 ### *Game Over*
-![Game Over](https://i.ibb.co/d5gZ4WD/Imagen7.png)
+<p align="center"><img src="https://i.ibb.co/d5gZ4WD/Imagen7.png"></p>
+
+## ***Creditos***
+
+Proyecto realizado por
+* [Marcos De Andrade](https://github.com/MarcosDeAndrade)
+* [Samuel Boada](https://github.com/systems-multimedia).
+
+## ***Licencia***
+
+[MIT](https://github.com/MarcosDeAndrade/PacMan/blob/master/LICENSE)
+
+&nbsp;
+
+<p align="center">✌️</p>
+<p align="center">
+<sub><sup>A project by <a href="https://github.com/MarcosDeAndrade">Marcos De Andrade</a> & <a href="https://github.com/systems-multimedia">Samuel Boada</a></sup></sub>
+</p>
