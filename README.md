@@ -46,7 +46,7 @@ Desarrollar un programa que permita jugar PacMan. Debe contar con las siguientes
     *  Inky: es de color verde. Es conservador y a veces tratará de escapar del PacMan. ***No esta Implemetado***.
   - El programa deberá indicar el tiempo transcurrido hasta que el Jugador pierde. ***No esta Implemetado***.
 
-## ***ScreenShoots***
+## ***Views***
 
 ### *Menu Principal*
 <p align="center"><img src="https://i.ibb.co/M7sgtnM/Imagen1.png"></p>
